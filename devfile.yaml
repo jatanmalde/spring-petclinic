@@ -37,21 +37,21 @@ components:
           attributes:
             discoverable: false
             urlRewriteSupported: false
-          targetPort: 13131
+          targetPort: 13136
           exposure: public
           protocol: http
         - name: intellij-redirect-2
           attributes:
             discoverable: false
             urlRewriteSupported: false
-          targetPort: 13132
+          targetPort: 13135
           exposure: public
           protocol: http
         - name: intellij-redirect-3
           attributes:
             discoverable: false
             urlRewriteSupported: false
-          targetPort: 13133
+          targetPort: 13134
           exposure: public
           protocol: http
     attributes:
